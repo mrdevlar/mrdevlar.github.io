@@ -14,4 +14,5 @@ The latter stores just the `output` folder that is handed to the pages web servi
 
 - Build content with `pelican content`
 - Check to make sure everything is working with `pelican --listen`
+- Add the output folder to the repo `git add output` and `git commit -m "my change"`
 - Deploy with `git subtree push --prefix output origin gh-pages`
