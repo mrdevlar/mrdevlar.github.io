@@ -5,7 +5,7 @@ Tags: AI, Art, Stable Diffusion
 
 In the past month, I took an unpaid volunteer job with an art collective. They were throwing a large Artificial Intelligence themed performance at Paradiso, [Ballonnenfeest](https://ruigoord.nl/evenement/het-ballonnenfeest-2023/), in Amsterdam. 
 
-I was an experience! My career has long been spent making ML/AI systems for my employers, rarely have I been granted the opportunity to use these systems myself. So I jumped at the chance to switch sides for a while, to AI consumer rather than producer. I also seized the opportunity to make Art for other people, as I've never done that before.
+It was an experience! My career has long been spent making ML/AI systems for my employers, rarely have I been granted the opportunity to use these systems myself. So I jumped at the chance to switch sides for a while, to AI consumer rather than producer. I also seized the opportunity to make Art for other people, as I've never done that before.
 
 I've been playing with AI art for the last 2 years, since the time of Disco Diffusion with it's abstract impressionist outputs. I put together a lot of things over the last two years, mainly in Stable Diffusion with the Automatic1111 UI. However, I've never made art for a live performance and in collaboration with other artists.
 
