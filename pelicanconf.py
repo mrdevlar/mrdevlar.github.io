@@ -60,7 +60,7 @@ DEFAULT_DATE_FORMAT = ('%Y-%m-%d')
 
 FAVICON = 'theme/img/favicon.png'
 ICON = 'theme/img/favicon.png'
-HEADER_IMAGE = 'theme/img/header.jpg'
+HEADER_IMAGE = 'theme/img/Wave_Logo.png'
 COPYRIGHT = '2024 &copy; CC-BY'
 
 # About ME
