@@ -13,13 +13,7 @@ The latter stores just the `output` folder that is handed to the pages web servi
 ## Deployment
 
 - Build content with `pelican content`
+- Content should now be in the `docs` folder
 - Check to make sure everything is working with `pelican --listen`
 - Add the output folder to the repo `git add output` and `git commit -m "my change"`
-- Deploy with `git subtree push --prefix output origin gh-pages`
-
-
-git push origin --delete gh-pages
-
-git merge -s subtree --prefix output origin gh-pages --allow-unrelated-historie
-
-git merge -s subtree -Xsubtree="$prefix" output/gh-pages --allow-unrelated-histories
+- Push changes with `git push origin main`, no PRs needed :D

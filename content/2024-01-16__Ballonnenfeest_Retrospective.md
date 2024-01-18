@@ -2,6 +2,7 @@ Title: Ballonnenfeest Retrospective
 Date: 2023-01-16 12:00
 Category: Retrospective
 Tags: AI, Art, Stable Diffusion
+og_image: {attach}/images/Heart.png
 
 In the past month, I took an unpaid volunteer job with an art collective. They were throwing a large Artificial Intelligence themed performance at Paradiso, [Ballonnenfeest](https://ruigoord.nl/evenement/het-ballonnenfeest-2023/), in Amsterdam. 
 
