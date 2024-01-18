@@ -6,10 +6,10 @@
     <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
     {% if article %}
         <title>{{article.title}}    &mdash;    {{ SITENAME }}</title> <!-- 65 Char --> 
-        <meta name="description" content="{{article.content[:100]}}, tags: {% for X in article.tags %} {{X}} {% endfor %}" /> <!-- 155 Char-->
+        <meta name="description" content="{{article.content[3:100]}}, tags: {% for X in article.tags %} {{X}} {% endfor %}" /> <!-- 155 Char-->
         <meta property="og:title" content="{{article.title}}" /> <!-- 35 Char -->
         <meta property="og:url" content="https://dev-el.com" />
-        <meta property="og:description" content="{{ article.content[:65] }}" /> <!-- 65 Char -->
+        <meta property="og:description" content="{{ article.content[3:65] }}" /> <!-- 65 Char -->
         <meta property="og:image" content="{{article.og_image}}" />
     {% else %}
         <title>{{ SITENAME }}</title>
